@@ -1,4 +1,4 @@
-# Salesforce-Facebook-Offline-Conversions
+# Salesforce Facebook Offline Conversions
 
 This is a simple Salesforce Apex Batch to send data to the [Facebook Marketing API](https://developers.facebook.com/docs/marketing-api/offline-conversions/)
 
